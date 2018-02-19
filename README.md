@@ -37,6 +37,18 @@ Then run the ensemble script.
 python ensemble.py --target_dir "path/to/dir/" --without_valid
 ```
 
+Environment
+---
+
+```
+numpy==1.14.0
+chainer==3.3.0
+pandas==0.20.3
+matplotlib==2.1.2
+geopy==1.11.0
+scikit-learn==0.19.1
+```
+
 References
 ---
 - sjv's original implementation  
