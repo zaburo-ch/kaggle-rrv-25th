@@ -40,6 +40,8 @@ python ensemble.py --target_dir "path/to/dir/" --without_valid
 Environment
 ---
 
+Python 3.6.3 :: Anaconda custom (64-bit)
+
 ```
 numpy==1.14.0
 chainer==3.3.0
